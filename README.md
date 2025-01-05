@@ -4,7 +4,7 @@
 
 **基于 NestJs + TypeScript + TypeORM + Redis + MySql + Vue3 + Ant Design Vue 编写的一款简单高效的前后端分离的权限管理系统。希望这个项目在全栈的路上能够帮助到你。**
 
-- 前端项目地址：[传送门](https://github.com/buqiyuan/vue3-antdv-admin)
+- 前端项目地址：[传送门](https://github.com/accopy/vue3-antdv-admin)
 
 ## 演示地址
 
